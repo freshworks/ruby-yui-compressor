@@ -2,7 +2,8 @@
 
 Ruby-YUI Compressor provides a Ruby interface to the {YUI Compressor Java library}[http://developer.yahoo.com/yui/compressor/] for minifying JavaScript and CSS assets.
 
-<b>Latest version:</b> 0.9.4 (includes YUI Compressor 2.4.4)
+<h4>Forked by Freshdesk for jammit compression</h4>
+<b>Latest version:</b> 0.9.4 (includes YUI Compressor 2.4.7)
 
 * {API documentation}[http://yui.rubyforge.org/]
 * {Source code}[http://github.com/sstephenson/ruby-yui-compressor/]
